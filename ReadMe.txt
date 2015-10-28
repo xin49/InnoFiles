@@ -7,3 +7,5 @@ Git is free software distribute under the GPL.
 
 If not add master will not know.
 status or diff just between stage and master?
+what add do?
+what commit do?
